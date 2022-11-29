@@ -3,8 +3,8 @@ from .models import Team
 from django.utils.html import format_html
 
 # Register your models here.
-class TeamAdmin(admin.ModelAdmin):
 
+class TeamAdmin(admin.ModelAdmin):
     def thumbnail(self, object):
         return format_html("<img src='{}' width='50px' style='border-radius: 50px'>".format(object.photo.url))
 
