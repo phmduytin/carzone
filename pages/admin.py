@@ -15,5 +15,6 @@ class TeamAdmin(admin.ModelAdmin):
     search_fields = ('first_name', 'last_name', 'designation')
     list_filter = ['designation']
     list_editable = ['last_name']
+    
 
 admin.site.register(Team, TeamAdmin)
