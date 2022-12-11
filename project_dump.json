@@ -1,0 +1,1129 @@
+[
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Web Developer",
+        "photo": "photo/2022/11/27/avatar-1_cQi801v.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com/plus",
+        "created_date": "2022-11-27T13:25:22.223Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photo/2022/11/27/avatar-2.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com/plus",
+        "created_date": "2022-11-27T13:25:52.767Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Manager",
+        "photo": "photo/2022/11/27/avatar-3.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com/plus",
+        "created_date": "2022-11-27T13:26:33.423Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photo/2022/11/27/avatar-4.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com/plus",
+        "created_date": "2022-11-27T13:26:56.288Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "admin",
+        "last_name": "abc",
+        "designation": "CEO",
+        "photo": "photo/2022/11/27/avatar-12.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com/plus",
+        "created_date": "2022-11-27T13:55:48.404Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Z3MBz8U8jsLQ0oUPD06T6B$7ztL69V18b9zrf1kw5JpnCCB7iPtMkfGREWblEmhaKI=",
+        "last_login": "2022-12-11T22:21:41.931Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "Duy Tien",
+        "last_name": "Pham",
+        "email": "phmduytin@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-11-26T22:58:41Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$9xCIZhzF5OJxGH9vowGawd$llUkyov6vUQbe8mqaW17da8CaL8jGgX7yp+kWs9B4Rk=",
+        "last_login": "2022-12-08T23:05:29.750Z",
+        "is_superuser": false,
+        "username": "phmduytin",
+        "first_name": "Duy Tien",
+        "last_name": "PHam",
+        "email": "admin2@sharetuts.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-08T22:47:00.499Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$0fzVYRSgmGZfizFVE1dijw$x+AFUECGm8zbmdq3Q39rgInwwsm0o74ZN1PCc/7t18o=",
+        "last_login": "2022-12-11T22:33:44.990Z",
+        "is_superuser": false,
+        "username": "admin1",
+        "first_name": "Duy Tien",
+        "last_name": "a",
+        "email": "admin3@sharetuts.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-08T22:48:01.291Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Woxm7lkYABf3p6oz6yOiZK$Q060TViwlWxo6E5PrX2I5YGdrDAvVBID+XPXhUubbDA=",
+        "last_login": "2022-12-08T22:48:49.787Z",
+        "is_superuser": false,
+        "username": "admin5",
+        "first_name": "dsf",
+        "last_name": "fgh",
+        "email": "vendor@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-08T22:48:49.390Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$yAexy8nX9ZtbTRLoZcSZg3$Xr43hQ1EcbCBr9jlUdIbC4MrzCc0NrzzkPPZtmOmL60=",
+        "last_login": "2022-12-08T22:50:49.291Z",
+        "is_superuser": false,
+        "username": "vendo",
+        "first_name": "dsf",
+        "last_name": "a",
+        "email": "vendor@sharetuts.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-08T22:50:48.930Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!oV91DmrCGCidQObEQsgocb0b5TaXeWd35nAqzcDX",
+        "last_login": "2022-12-10T22:14:01.248Z",
+        "is_superuser": false,
+        "username": "tien",
+        "first_name": "Tiên",
+        "last_name": "Phạm Duy",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-10T21:13:38.449Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!XXwjGEpcriVTeh9J0pX2SZO4FdjmN7bJDHPUR2sn",
+        "last_login": "2022-12-10T21:29:51.677Z",
+        "is_superuser": false,
+        "username": "bits",
+        "first_name": "Bits",
+        "last_name": "Everything",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-10T21:29:51.654Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "1xb83kp3r91o8t6d6un2z2bxtaruqy1i",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlneGP8o6XMGa9de4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVFgDj9boTpwW0H-Y7tNss0t3WZSO6KPGiX45z5eT3cv4OKvX7roABsYI-KoVjQ2jkqhoIrjGiwWH-2g8KQgzOstPYJKA85JesUEhXx_gDXQTgy:1p0253:U0bOg1r_zu44_ATx0Yp-Skz3Wuosr3itX-dIRODAPc0",
+        "expire_date": "2022-12-13T14:59:29.176Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "aqw0flohnkhz54fd0aravlemfsu712mg",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlneGP8o6XMGa9de4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVFgDj9boTpwW0H-Y7tNss0t3WZSO6KPGiX45z5eT3cv4OKvX7roABsYI-KoVjQ2jkqhoIrjGiwWH-2g8KQgzOstPYJKA85JesUEhXx_gDXQTgy:1p1roB:n6foPSC3BxEIfJghgVdcqTpgi_f3h_LMxFOnXFlFgTk",
+        "expire_date": "2022-12-18T16:25:39.327Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "nccv8nn07cm4xpz33zw1fuuf4gjlm93z",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlneGP8o6XMGa9de4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVFgDj9boTpwW0H-Y7tNss0t3WZSO6KPGiX45z5eT3cv4OKvX7roABsYI-KoVjQ2jkqhoIrjGiwWH-2g8KQgzOstPYJKA85JesUEhXx_gDXQTgy:1p479G:T_TmjW4O-Zyg__dNkkU_yV2R3gZYwhPWKkdoEeNofv4",
+        "expire_date": "2022-12-24T21:12:42.366Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ppwbqhhqlzxvn1zj6tym3hglwxa7xeg0",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlneGP8o6XMGa9de4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVFgDj9boTpwW0H-Y7tNss0t3WZSO6KPGiX45z5eT3cv4OKvX7roABsYI-KoVjQ2jkqhoIrjGiwWH-2g8KQgzOstPYJKA85JesUEhXx_gDXQTgy:1p2gKN:LZFfZgnmYollhh19WiVZ_vvJL5Ik6if2zXW87DvgSoU",
+        "expire_date": "2022-12-20T22:22:15.144Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "qkegwah1k3rxwlsi476ib6c0bkug7sut",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAUBf-FtSEXWqG4dN9vIPeBUjWQlHZl_HfbpAvdnpk5bxVxXXJcW5rjJOqiOnX63Qj5mcoO5IHlXjXXsswT6V3RB216rJJe18P9O8jY8lZ7Mjj4EHoxBm62s4EcQ3eW5NiHntiDt-A2wiSCDELESQSs4wENqc8X2rc4eg:1p4H1E:IndOc3OggKF6m89JQ54F1AdHXN0KnREuKU7-R5uwqr8",
+        "expire_date": "2022-12-25T07:45:04.671Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "rxsn6tyldmi0ccexqxhu14lk10vfayuj",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlneGP8o6XMGa9de4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVFgDj9boTpwW0H-Y7tNss0t3WZSO6KPGiX45z5eT3cv4OKvX7roABsYI-KoVjQ2jkqhoIrjGiwWH-2g8KQgzOstPYJKA85JesUEhXx_gDXQTgy:1ozm3l:C1c3qzttgGK5J2M2apEYvhagfYctE9nCh3SIAPayCLQ",
+        "expire_date": "2022-12-12T21:53:05.929Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "v7unfg00n80yws3yhxqc9nxnsvdyjrag",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlneGP8o6XMGa9de4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVFgDj9boTpwW0H-Y7tNss0t3WZSO6KPGiX45z5eT3cv4OKvX7roABsYI-KoVjQ2jkqhoIrjGiwWH-2g8KQgzOstPYJKA85JesUEhXx_gDXQTgy:1p4UA4:TlU2RoGblHWkenrnrqfSmFZ7yDtf9QggwL8sl341CgA",
+        "expire_date": "2022-12-25T21:47:04.968Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "v8w8xndkq2zzq1804ufax8clbocqxzhr",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlneGP8o6XMGa9de4wBypDipEHeHSCmgfTPzXiLitta4dV7ilMVFgDj9boTpwW0H-Y7tNss0t3WZSO6KPGiX45z5eT3cv4OKvX7roABsYI-KoVjQ2jkqhoIrjGiwWH-2g8KQgzOstPYJKA85JesUEhXx_gDXQTgy:1p0PG6:dFzaY0X89meeb9JjmXhQcllADpahScgxmlfkOb5t-mI",
+        "expire_date": "2022-12-14T15:44:26.351Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "CA",
+        "city": "7 District",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p>The <strong>Ferrari 488</strong> (Type F142M) is a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a> <a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a> produced by the Italian automobile manufacturer <a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the <a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the <a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. It was succeeded by the <a href=\"https://en.wikipedia.org/wiki/Ferrari_F8\" title=\"Ferrari F8\">Ferrari F8</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a> <a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s <a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine <em><a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\">Top Gear</a></em>, as well as becoming <em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a> <a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a> announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a> The 488 was succeeded by the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a> in February 2019.</p>",
+        "car_photo_1": "photos/2022/11/29/1902536891.jpg",
+        "car_photo_2": "photos/2022/11/29/1902536917.jpg",
+        "car_photo_3": "photos/2022/11/29/1902537043.jpg",
+        "car_photo_4": "photos/2022/11/29/1902537077.jpg",
+        "features": "Cruise Control,Seat Heating,Alarm System,Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "Sport",
+        "engine": "3.4L Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 10000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "VNCXASDFNR3J2DF9",
+        "mileage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-29T05:15:57Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "TX",
+        "city": "Dallas",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 250000,
+        "description": "<p>Most crossover SUVs fall into one of two categories: You&#39;ve got your two-row subcompact and compact crossovers and then the larger three-row large SUVs best suited for family duty. However, there are a few midsize models that slot between the compact and large crossovers. These offer superior rear seat accommodations compared to a compact crossover but without the large footprint of one of the big guys. Of these, the 2017 Ford Edge is a great choice if you want something modern, fuel-efficient and comfortable.</p>",
+        "car_photo_1": "photos/2022/11/29/1901478607.jpg",
+        "car_photo_2": "photos/2022/11/29/1901478618.jpg",
+        "car_photo_3": "photos/2022/11/29/1901478646.jpg",
+        "car_photo_4": "photos/2022/11/29/1901478672.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Power Steering,Auto Start/Stop,Wind Deflector",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 15000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "ASDPGFNBF53543",
+        "mileage": 8,
+        "fuel_type": "Pertrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2022-11-29T05:20:42Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "CO",
+        "city": "Ohaha",
+        "color": "Black Red",
+        "model": "Super Duty",
+        "year": 2017,
+        "condition": "Used",
+        "price": 30000,
+        "description": "<p>America&rsquo;s truck leader again brings heavy-duty truck customers the toughest, smartest, most capable pickup truck ever &ndash; the Ford F-Series Super Duty. The F-450 Crew Cab with eight-foot box is now available on 4x2 configuration trucks. A Black/Dark Marsala interior is available for Platinum edition trucks. Unique King Ranch pickup features antique-affect leather. A rearview camera is now standard on the XL series truck. Also available for the new model year are an 11,400-pound gross vehicle weight rating package for single-rear-wheel trucks and a 13,000-pound gross vehicle weight rating package for dual-rear-wheel trucks.&nbsp;</p>",
+        "car_photo_1": "photos/2022/11/29/1894300894.jpg",
+        "car_photo_2": "photos/2022/11/29/1894300905.jpg",
+        "car_photo_3": "photos/2022/11/29/1894300920.jpg",
+        "car_photo_4": "photos/2022/11/29/1900155012.jpg",
+        "features": "Cruise Control,Seat Heating,ParkAssist,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Engine V7",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 13000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WPSFDS43EK43VBD",
+        "mileage": 10,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-29T05:24:14Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "AK",
+        "city": "Okale",
+        "color": "Green",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 30000,
+        "description": "<p>The <strong>Jaguar F-Pace</strong> (X761) is a <a href=\"https://en.wikipedia.org/wiki/Compact_executive_car\" title=\"Compact executive car\">compact luxury</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Crossover_SUV\" title=\"Crossover SUV\">crossover SUV</a> made by <a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their <a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the <a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a> in Detroit, with sales commencing in 2016 following an unveiling at the <a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a> in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a> The design of the F-Pace is based on the 2013 <a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a> concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a> The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the <a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>",
+        "car_photo_1": "photos/2022/11/29/1902932503_rDsaVXw.jpg",
+        "car_photo_2": "photos/2022/11/29/1902932514_nheV66c.jpg",
+        "car_photo_3": "photos/2022/11/29/1902932528_nPZHAyO.jpg",
+        "car_photo_4": "photos/2022/11/29/1902932542_ZuyJp8k.jpg",
+        "features": "Cruise Control,Seat Heating,ParkAssist,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4 Engine V4",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 12500,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0TFGK3FGF45GHL",
+        "mileage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-29T05:39:51Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "AZ",
+        "city": "Agola",
+        "color": "White",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 15000,
+        "description": "<p>The <strong>Toyota 4Runner</strong> is an <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/SUV\" title=\"SUV\">SUV</a> manufactured by the Japanese automaker <a href=\"https://en.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a> and marketed globally since 1984, across five generations. In Japan, it was marketed as the <strong>Toyota Hilux Surf</strong> (<a href=\"https://en.wikipedia.org/wiki/Japanese_language\" title=\"Japanese language\">Japanese</a>: トヨタ・ハイラックスサーフ, <a href=\"https://en.wikipedia.org/wiki/Hepburn_romanization\" title=\"Hepburn romanization\">Hepburn</a>: <em>Toyota Hairakkususāfu</em>) and was withdrawn from the market in 2009. The original 4Runner was a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Compact_SUV\" title=\"Compact SUV\">compact SUV</a> and little more than a Toyota <a href=\"https://en.wikipedia.org/wiki/Toyota_Hilux\" title=\"Toyota Hilux\">Hilux</a> pickup truck with a fiberglass shell over the bed, but the model has since undergone significant independent development into a cross between a compact and a mid-size SUV. All 4Runners have been built in Japan at Toyota&#39;s <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Tahara_plant\" title=\"Tahara plant\">plant</a> in <a href=\"https://en.wikipedia.org/wiki/Tahara,_Aichi\" title=\"Tahara, Aichi\">Tahara, Aichi</a>, or at the <a href=\"https://en.wikipedia.org/wiki/Hino_Motors\" title=\"Hino Motors\">Hino Motors</a> (a Toyota subsidiary) plant in <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Hamura\" title=\"Hamura\">Hamura</a>.</p>",
+        "car_photo_1": "photos/2022/11/29/1893633875.jpg",
+        "car_photo_2": "photos/2022/11/29/1893633879.jpg",
+        "car_photo_3": "photos/2022/11/29/1893633884.jpg",
+        "car_photo_4": "photos/2022/11/29/1896836883.jpg",
+        "features": "Cruise Control,Audio Interface,ParkAssist,Power Steering,Auto Start/Stop",
+        "body_style": "SUB",
+        "engine": "3.4L Engine V5",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 18000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0565FDGD34G5",
+        "mileage": 7,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2022-11-29T05:43:55Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "FL",
+        "city": "NamLong",
+        "color": "White",
+        "model": "Corolla",
+        "year": 2018,
+        "condition": "Used",
+        "price": 20000,
+        "description": "<p>The <strong>Toyota Corolla</strong> (<a href=\"https://en.wikipedia.org/wiki/Japanese_language\" title=\"Japanese language\">Japanese</a>: トヨタ・カローラ, <a href=\"https://en.wikipedia.org/wiki/Hepburn_romanization\" title=\"Hepburn romanization\">Hepburn</a>: <em>Toyota Karōra</em>) is a series of <a href=\"https://en.wikipedia.org/wiki/Compact_car\" title=\"Compact car\">compact cars</a> (formerly <a href=\"https://en.wikipedia.org/wiki/Subcompact_car\" title=\"Subcompact car\">subcompact</a>) manufactured and marketed globally by the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Toyota_Motor_Corporation\" title=\"Toyota Motor Corporation\">Toyota Motor Corporation</a>. Introduced in 1966, the Corolla was the best-selling car worldwide by 1974 and has been one of the best-selling cars in the world since then. In 1997, the Corolla became the <a href=\"https://en.wikipedia.org/wiki/List_of_best-selling_automobiles\" title=\"List of best-selling automobiles\">best-selling nameplate in the world</a>, surpassing the <a href=\"https://en.wikipedia.org/wiki/Volkswagen_Beetle\" title=\"Volkswagen Beetle\">Volkswagen Beetle</a>.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-1\">[1]</a> Toyota reached the milestone of 50 million Corollas sold over twelve generations in 2021.<a href=\"https://en.wikipedia.org/wiki/Toyota_Corolla#cite_note-50million-2\">[2]</a></p>",
+        "car_photo_1": "photos/2022/11/29/1900893299.jpg",
+        "car_photo_2": "photos/2022/11/29/1900893311.jpg",
+        "car_photo_3": "photos/2022/11/29/1900893319.jpg",
+        "car_photo_4": "photos/2022/11/29/1900893391.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Seat Heating,Reversing Camera,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4 Engine V6",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 10000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0GFD42FD47H",
+        "mileage": 6,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-29T05:47:53Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 7,
+    "fields": {
+        "car_title": "2015 Porsche Cayenne",
+        "state": "LA",
+        "city": "Tampa",
+        "color": "white",
+        "model": "Sport",
+        "year": 2015,
+        "condition": "Used",
+        "price": 5000,
+        "description": "<p>The <strong>Porsche Cayenne</strong> is a series of <a href=\"https://en.wikipedia.org/wiki/Luxury_car\" title=\"Luxury car\">mid-size luxury</a> <a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Sport_utility_vehicles\" title=\"Sport utility vehicles\">sport utility vehicles</a> manufactured by the German <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">automaker</a> <a href=\"https://en.wikipedia.org/wiki/Porsche\" title=\"Porsche\">Porsche</a> since 2002 (Type 9PA or E1), with North American sales beginning in 2003. It is the first <a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8-engined</a> vehicle built by Porsche since 1995, when the <a href=\"https://en.wikipedia.org/wiki/Porsche_928\" title=\"Porsche 928\">Porsche 928</a> was discontinued. It is also Porsche&#39;s first off-road variant vehicle since its <a href=\"https://en.wikipedia.org/wiki/Porsche_Super\" title=\"Porsche Super\">Super</a> and <a href=\"https://en.wikipedia.org/wiki/Porsche_Junior\" title=\"Porsche Junior\">Junior</a> tractors of the 1950s, and the first Porsche with four doors.</p>",
+        "car_photo_1": "photos/2022/11/30/1.jpg",
+        "car_photo_2": "photos/2022/11/30/2.jpg",
+        "car_photo_3": "photos/2022/11/30/4.jpg",
+        "car_photo_4": "photos/2022/11/30/3.jpg",
+        "features": "Cruise Control,Audio Interface,ParkAssist,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "Engine 32L",
+        "transmission": "Manual",
+        "interior": "Black",
+        "miles": 16000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "WP04584FGFD4GT5",
+        "mileage": 6,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-30T22:44:33Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook Login",
+        "client_id": "5755582074489347",
+        "secret": "8d611c54115e1c547a27db7baeeb9bce",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "802098217253-8jnk067em7l247jpoo0alideu0htb4pu.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "tien"
+        ],
+        "provider": "facebook",
+        "uid": "3388935351383308",
+        "last_login": "2022-12-10T22:14:01.225Z",
+        "date_joined": "2022-12-10T21:13:38.506Z",
+        "extra_data": "{\"id\": \"3388935351383308\", \"name\": \"Ph\\u1ea1m Duy Ti\\u00ean\", \"first_name\": \"Ti\\u00ean\", \"last_name\": \"Ph\\u1ea1m Duy\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "bits"
+        ],
+        "provider": "google",
+        "uid": "114872665291789784610",
+        "last_login": "2022-12-10T21:29:51.668Z",
+        "date_joined": "2022-12-10T21:29:51.668Z",
+        "extra_data": "{\"id\": \"114872665291789784610\", \"name\": \"Bits Everything\", \"given_name\": \"Bits\", \"family_name\": \"Everything\", \"picture\": \"https://lh3.googleusercontent.com/a/AEdFTp7I-jJpKz3OHpLOI-yHu5R9_aYI-l2P-4PhqNmF=s96-c\", \"locale\": \"en-GB\"}"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 6,
+    "fields": {
+        "firstname": "Duy Tien",
+        "lastname": "a",
+        "customer_need": "I'm interested in this",
+        "car_id": 7,
+        "car_title": "2015 Porsche Cayenne",
+        "city": "Vinh",
+        "state": "abc",
+        "email": "admin3@sharetuts.net",
+        "phone": "123",
+        "comment": "123",
+        "user_id": 3,
+        "created_date": "2022-12-12T04:54:52.692Z"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 7,
+    "fields": {
+        "firstname": "Duy Tien",
+        "lastname": "a",
+        "customer_need": "I'm interested in this",
+        "car_id": 6,
+        "car_title": "2018 Toyota Corolla",
+        "city": "7 District",
+        "state": "HCM test",
+        "email": "admin3@sharetuts.net",
+        "phone": "0962962165",
+        "comment": "ok",
+        "user_id": 3,
+        "created_date": "2022-12-12T04:56:26.184Z"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 8,
+    "fields": {
+        "firstname": "Duy Tien",
+        "lastname": "a",
+        "customer_need": "I'm interested in this",
+        "car_id": 4,
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "Vinh",
+        "state": "Nghe An",
+        "email": "admin3@sharetuts.net",
+        "phone": "0918425527",
+        "comment": "ok",
+        "user_id": 3,
+        "created_date": "2022-12-12T04:56:58.306Z"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 9,
+    "fields": {
+        "firstname": "Duy Tien",
+        "lastname": "a",
+        "customer_need": "I'm interested in this",
+        "car_id": 5,
+        "car_title": "2018 Toyota 4Runner",
+        "city": "7 District",
+        "state": "Nghe An",
+        "email": "admin3@sharetuts.net",
+        "phone": "",
+        "comment": "",
+        "user_id": 3,
+        "created_date": "2022-12-12T05:11:55.727Z"
+    }
+},
+{
+    "model": "contact.contact",
+    "pk": 10,
+    "fields": {
+        "firstname": "Duy Tien",
+        "lastname": "a",
+        "customer_need": "I'm interested in this",
+        "car_id": 3,
+        "car_title": "2017 Ford F-250 Super Duty",
+        "city": "123",
+        "state": "123123",
+        "email": "admin3@sharetuts.net",
+        "phone": "",
+        "comment": "",
+        "user_id": 3,
+        "created_date": "2022-12-12T05:12:19.381Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-11-26T23:03:44.292Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "admin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-11-27T10:33:14.923Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-11-27T13:18:15.497Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Duy Tien",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-11-27T13:25:22.224Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-11-27T13:25:28.823Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Duy Tien",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-11-27T13:25:52.768Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-11-27T13:26:33.424Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-11-27T13:26:56.290Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-11-27T13:55:48.405Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "admin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-11-28T22:19:57.773Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-11-28T22:24:09.231Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-11-28T22:27:49.669Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-11-28T22:42:13.400Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-11-28T22:43:16.438Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "car object (4)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-11-28T22:47:53.710Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-11-28T22:50:28.810Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-11-28T23:14:01.648Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-11-30T15:49:45.192Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2015 Porsche Cayenne",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-12-04T16:25:57.554Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "2015 Porsche Cayenne",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-12-10T21:07:16.532Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-12-10T21:07:50.783Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-12-10T21:24:57.729Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-12-11T21:54:25.955Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "contact",
+            "contact"
+        ],
+        "object_id": "5",
+        "object_repr": "admin3@sharetuts.net",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-12-11T21:54:26.039Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "contact",
+            "contact"
+        ],
+        "object_id": "4",
+        "object_repr": "admin1@sharetuts.net",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-12-11T21:54:26.041Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "contact",
+            "contact"
+        ],
+        "object_id": "3",
+        "object_repr": "sadf@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-12-11T21:54:26.042Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "contact",
+            "contact"
+        ],
+        "object_id": "2",
+        "object_repr": "sadf@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-12-11T21:54:26.044Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "contact",
+            "contact"
+        ],
+        "object_id": "1",
+        "object_repr": "phmduytin@sharetuts.net",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]

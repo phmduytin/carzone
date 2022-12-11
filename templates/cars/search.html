@@ -4,6 +4,8 @@
 {% load static %}
 {% load humanize %}
 
+{% block title %} | Search {% endblock %}
+
 {% block content %}
 <!-- Banner start -->
 <div class="sub-banner overview-bgi">
@@ -13,6 +15,7 @@
             <ul class="breadcrumbs">
                 <li><a href="{% url 'home' %}">Home</a></li>
                 <li class="active">Search</li>
+                {% include 'includes/messages.html' %}
             </ul>
         </div>
     </div>

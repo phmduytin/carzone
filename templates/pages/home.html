@@ -1,11 +1,14 @@
 {% extends 'base.html' %}
 
+{% block title %} | Home {% endblock %}
+
 {% block content %}
 {% load static %}
 {% load humanize %}
 
 <!-- Banner start -->
 <div class="banner" id="banner">
+    {% include 'includes/messages.html' %}
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner banner-slider-inner text-center">
             <div class="carousel-item banner-max-height active item-bg">
@@ -38,6 +41,7 @@
         </div>
         <!-- Search box 3 start -->
         <div class="search-box-4 sb-8">
+            
             <form action="{% url 'search' %}" method="GET">
                 <div class="form-group">
                     <input type="text" name="keyword" placeholder="Search by name" class="form-control">
